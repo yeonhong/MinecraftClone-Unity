@@ -1,2 +1,5 @@
 WebGLPlugins
 build
+Library/
+Logs/
+Temp/
